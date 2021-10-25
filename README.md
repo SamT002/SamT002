@@ -24,8 +24,10 @@ t="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688
 [<img align="left" alt="Java" width="26px" src="https://media.proglib.io/posts/2021/04/07/2764e33c74fe89a726a09e4a001d5cd1.jpg" />][webdevplaylist]
 
 <br />
-<br />
+
+---
 
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[
+[telegram]: https://t.me/Gruff_8
+[whatsapp]: https://api.whatsapp.com/send?phone=+996777652485
