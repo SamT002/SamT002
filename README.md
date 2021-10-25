@@ -3,7 +3,7 @@
 ## I'm Android Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn more about Android Developing
+- 🥅 2021 Goals: Learn more about Android Developing
 - ⛰️ Love mountains, walk and music
 
 ### Connect with me:
@@ -16,9 +16,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Koltin" width="40px" src="https://ih1.redbubble.net/image.956420749.2653/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" />]
+[<img align="left" alt="Koltin" width="40px" src="https://img.icons8.com/color/480/kotlin.png" />]
 [<img align="left" alt="Android" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Android_logo_2019.png/479px-Android_logo_2019.png" />]
-[<img align="left" alt="Java" width="40px" src="https://media.proglib.io/posts/2021/04/07/2764e33c74fe89a726a09e4a001d5cd1.jpg" />]
+[<img align="left" alt="Java" width="40px" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" />]
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="40px" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.jpg" />]
