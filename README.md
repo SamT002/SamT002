@@ -25,7 +25,6 @@
 
 <br />
 
----
 
 
 [linkedin]: https://linkedin.com/in/codeSTACKr
