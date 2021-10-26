@@ -31,6 +31,6 @@
 
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/samat-tashmamatov-3348441a3/
 [telegram]: https://t.me/Gruff_8
 [whatsapp]: https://api.whatsapp.com/send?phone=+996777652485
