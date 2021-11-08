@@ -27,7 +27,7 @@
 <img align="left" alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<figure><embed src="https://wakatime.com/share/@92ab216b-fea8-439b-8ada-33c6a541ea81/1c5775b7-a786-42c9-b3f7-82880161053d.svg"></embed></figure>
+
 
 
 [linkedin]: https://www.linkedin.com/in/samat-tashmamatov-3348441a3/
