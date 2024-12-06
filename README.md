@@ -2,8 +2,6 @@
 
 ## I'm Android Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Android Developing and find great company
 - ⛰️ Love mountains, walk and music
 - 🙂 Gmail: samtashmamatov7@gmail.com
 
